@@ -1,4 +1,4 @@
-# Course project: Sales Dashboard
+# Course project: Sales dashboard
 
 ![experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)
 
